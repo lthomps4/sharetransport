@@ -4,7 +4,6 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>test-mvc</groupId>
 	<artifactId>user-pass</artifactId>
-	<!-- name>spring-mvc-showcase</name-->
 	<packaging>war</packaging>
 	<version>1.0.0-BUILD-SNAPSHOT</version>
 	
